@@ -208,9 +208,9 @@ class CreditsState extends MusicBeatState
 			[
 				'CharGoldenYT',
 				'char',
-				"Very epic PR's",
+				"Very epic PR's\nHi guess who made a message in credits state lmao",
 				'https://bsky.app/profile/chargoldenyt.bsky.social',
-				'D18054'
+				'FF8800'
 			],
 			[''],
 			['Psych Engine Team'],
